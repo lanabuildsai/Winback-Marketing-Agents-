@@ -1,6 +1,6 @@
 # Winback Marketing Agents
 
-An interview-ready machine learning project that mirrors the type of problem Remitly is solving: who is likely to lapse, who is worth winning back, what action should be recommended, and whether the intervention is incrementally profitable.
+An interview-ready machine learning project that mirrors the type of problem User Centric companies are solving: who is likely to lapse, who is worth winning back, what action should be recommended, and whether the intervention is incrementally profitable.
 
 The project is intentionally framed as a marketing and lifecycle decision system, not just a churn model.
 

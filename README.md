@@ -197,34 +197,11 @@ The end-to-end demo now produces:
 - [src/winback_marketing_agents/reporting.py](/Users/Lana/Downloads/MS%20Connects%202/winback-marketing-agents/src/winback_marketing_agents/reporting.py)
 - [PROJECT_BRIEF.md](/Users/Lana/Downloads/MS%20Connects%202/winback-marketing-agents/PROJECT_BRIEF.md)
 
-## How To Talk About It In An Interview
+## Why this project
 
-You can describe it like this:
+I can describe it like this:
 
 > I built a lightweight winback decision engine that separates churn risk from customer value, recommends a next best action, and estimates incremental business impact through a holdout-style framework. The goal was not just to predict churn, but to create something closer to a lifecycle marketing operating system.
 
-## Natural Next Steps
 
-If you want to extend this into a stronger public project:
 
-- swap in a Kaggle or UCI bank-marketing dataset
-- add SHAP-style feature explanation
-- turn the policy layer into a true uplift model
-- add corridor-specific policy rules
-- expose the scoring flow through a small Streamlit app
-
-## Suggested GitHub Post Angle
-
-Suggested repo description:
-
-> Agent-style ML project for lifecycle marketing: churn risk, customer value, next best action, and holdout-based winback evaluation.
-
-Suggested LinkedIn / GitHub post:
-
-> Built a small winback marketing engine to mirror the kind of lifecycle problem companies like Remitly solve: who is likely to lapse, who is worth winning back, which action to take, and how to estimate incremental profit instead of just response rate.
-
-## Repo Positioning
-
-If you want to describe the project in one strong portfolio sentence, use:
-
-> A lightweight lifecycle marketing decision engine that combines churn risk, customer value, next best action, and holdout-style evaluation to support more profitable winback decisions.
